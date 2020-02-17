@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tool/Lautype_Apikey_date.swift"
+            timestampString = "578948182.932856"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "Lautype_Apikey_date"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_1B26134B30BEBF17E2D0031203C07DE6_func3"
+                  moduleName = "temp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoz/Desktop/%E4%BC%B4%E6%97%85V5%202/tool/Lautype_Apikey_date.swift"
+                  timestampString = "578945368.471468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "temp1.Lautype_Apikey_date.NowSign.unsafeMutableAddressor : Swift.String"
+                  moduleName = "temp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoz/Desktop/%E4%BC%B4%E6%97%85V5%202/tool/Lautype_Apikey_date.swift"
+                  timestampString = "578945368.475077"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static temp1.Lautype_Apikey_date.NowSign.getter : Swift.String"
+                  moduleName = "temp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoz/Desktop/%E4%BC%B4%E6%97%85V5%202/tool/Lautype_Apikey_date.swift"
+                  timestampString = "578945368.477047"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/changyonyu/changyonyu_ViewController.swift"
+            timestampString = "578948182.933367"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "changyonyu_ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "temp1.changyonyu_ViewController.speech_lau_date.getter : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "temp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoz/Desktop/%E4%BC%B4%E6%97%85V5%202/controller/changyonyu/changyonyu_ViewController.swift"
+                  timestampString = "578946841.9166059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "temp1.changyonyu_ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; temp1.changyonyu_ViewController"
+                  moduleName = "temp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoz/Desktop/%E4%BC%B4%E6%97%85V5%202/controller/changyonyu/changyonyu_ViewController.swift"
+                  timestampString = "578946841.918743"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "temp1.changyonyu_ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;temp1.changyonyu_ViewController&gt;"
+                  moduleName = "temp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miaoz/Desktop/%E4%BC%B4%E6%97%85V5%202/controller/changyonyu/changyonyu_ViewController.swift"
+                  timestampString = "578946841.9207979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
